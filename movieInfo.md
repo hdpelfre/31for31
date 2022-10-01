@@ -1,21 +1,6 @@
-# Oct. 1: *The Thing*
-**IMDB Rating: 8.2**  
-*Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.*  
-### Streaming:
-- Peacock Premium  
-### Rent:
-* Apple iTunes: $3.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $3.99  
-* AMC on Demand: $3.99  
-* Spectrum On Demand: $4.99  
-* Alamo on Demand: $3.99  
-  
-
-# Oct. 2: *The Shining*
-**IMDB Rating: 8.4**  
-*Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.*  
+# Oct. 1: *The Conjuring*
+**IMDB Rating: 7.5**  
+*Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.*  
 ### Streaming:
 - HBO Max  
 ### Rent:
@@ -25,29 +10,49 @@
 * Microsoft Store: $3.99  
 * Redbox: $3.99  
 * DIRECTV: $3.99  
+* Spectrum On Demand: $3.99  
   
 
-# Oct. 3: *The Texas Chainsaw Massacre*
-**IMDB Rating: 7.5**  
-*When Sally hears that her grandfather's grave may have been vandalized, she and her paraplegic brother, Franklin, set out with their friends to investigate. After a detour to their family's old farmhouse, they discover a group of crazed, murderous outcasts living next door. As the group is attacked one by one by the chainsaw-wielding Leatherface, who wears a mask of human skin, the survivors must do everything they can to escape.*  
+# Oct. 2: *It*
+**IMDB Rating: 7.3**  
+*In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.*  
 ### Streaming:
-- Showtime  
-- Shudder  
-- Showtime Amazon Channel  
-- Shudder Amazon Channel  
-- DIRECTV  
-- AMC+ Amazon Channel  
+- Netflix  
+- HBO Max  
 ### Rent:
 * Apple iTunes: $3.99  
-* Google Play Movies: $3.99  
 * Vudu: $3.99  
 * Amazon Video: $3.99  
-* Microsoft Store: $4.99  
-* YouTube: $3.99  
-* Alamo on Demand: $2.99  
+* Microsoft Store: $3.99  
+* Redbox: $3.99  
+* AMC on Demand: $3.99  
+* DIRECTV: $3.99  
   
 
-# Oct. 4: *The Exorcist*
+# Oct. 3: *It Chapter Two*
+**IMDB Rating: 6.5**  
+*27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.*  
+### Streaming:
+- HBO Max  
+### Rent:
+* Apple iTunes: $3.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $3.99  
+* Redbox: $3.99  
+* AMC on Demand: $3.99  
+* DIRECTV: $3.99  
+* Spectrum On Demand: $3.99  
+  
+
+# Oct. 4: *Prey*
+**IMDB Rating: 7.2**  
+*When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.*  
+### Streaming:
+- Hulu  
+  
+
+# Oct. 5: *The Exorcist*
 **IMDB Rating: 8.1**  
 *12-year-old Regan MacNeil begins to adapt an explicit new personality as strange events befall the local area of Georgetown. Her mother becomes torn between science and superstition in a desperate bid to save her daughter, and ultimately turns to her last hope: Father Damien Karras, a troubled priest who is struggling with his own faith.*  
 ### Streaming:
@@ -64,102 +69,14 @@
 * DIRECTV: $3.99  
   
 
-# Oct. 5: *Hellraiser*
-**IMDB Rating: 6.9**  
-*When he tinkers with a box he bought while abroad, sexual deviant Frank inadvertently opens a portal to hell, where fetish-demons led by Pinhead tear his body apart. When Frank’s brother and his wife move into his house, a skeletal Frank appears to his sister-in-law and asks her to supply him with corpses for his regeneration.*  
+# Oct. 6: *Hush*
+**IMDB Rating: 6.6**  
+*A deaf woman is stalked by a psychotic killer in her secluded home.*  
 ### Streaming:
-- Amazon Prime Video  
-- Shudder  
-- Shudder Amazon Channel  
-- AMC+ Amazon Channel  
-### Rent:
-* Apple iTunes: $3.99  
-* Google Play Movies: $3.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $3.99  
-* YouTube: $3.99  
-* Redbox: $2.99  
+- Netflix  
   
 
-# Oct. 6: *Alien*
-**IMDB Rating: 8.5**  
-*During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.*  
-### Streaming:
-- Starz  
-- Starz Play Amazon Channel  
-- DIRECTV  
-- Starz Roku Premium Channel  
-### Rent:
-* Apple iTunes: $3.99  
-* Google Play Movies: $3.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $3.99  
-* YouTube: $3.99  
-* Redbox: $3.99  
-* AMC on Demand: $3.99  
-* DIRECTV: $3.99  
-* Spectrum On Demand: $3.99  
-  
-
-# Oct. 7: *Nightmare on Elm Street*
-**IMDB Rating: 7.4**  
-*Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...*  
-### Streaming:
-- HBO Max  
-### Rent:
-* Apple iTunes: $3.99  
-* Google Play Movies: $3.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $3.99  
-* YouTube: $3.99  
-* Redbox: $3.99  
-* AMC on Demand: $3.99  
-* DIRECTV: $3.99  
-* Spectrum On Demand: $3.99  
-  
-
-# Oct. 8: *The Omen*
-**IMDB Rating: 7.5**  
-*Immediately after their miscarriage, the US diplomat Robert Thorn adopts the newborn Damien without the knowledge of his wife. Yet what he doesn’t know is that their new son is the son of the devil.*  
-### Streaming:
-- DIRECTV  
-- HBO Max  
-### Rent:
-* Apple iTunes: $3.99  
-* Google Play Movies: $3.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $3.99  
-* YouTube: $3.99  
-* Redbox: $3.99  
-* AMC on Demand: $3.99  
-* DIRECTV: $3.99  
-  
-
-# Oct. 9: *The Amityville Horror*
-**IMDB Rating: 6.1**  
-*George Lutz and his wife Kathleen, move into their Long Island dream house with their children only for their lives to be turned into a hellish nightmare. The legacy of a murder committed in the house gradually affects the family and a priest is brought in to try and exorcise the demonic presence from their home.*  
-### Streaming:
-- Starz  
-- Starz Play Amazon Channel  
-- DIRECTV  
-- Starz Roku Premium Channel  
-### Rent:
-* Apple iTunes: $3.99  
-* Google Play Movies: $3.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $3.99  
-* YouTube: $3.99  
-* Redbox: $1.99  
-* AMC on Demand: $3.99  
-* DIRECTV: $3.99  
-  
-
-# Oct. 10: *The Strangers*
+# Oct. 7: *The Strangers*
 **IMDB Rating: 6.1**  
 *After returning from a wedding reception, a couple staying in an isolated vacation house receive a knock on the door in the mid-hours of the night. What ensues is a violent invasion by three strangers, their faces hidden behind masks. The couple find themselves in a violent struggle, in which they go beyond what either of them thought capable in order to survive.*  
 ### Rent:
@@ -175,25 +92,9 @@
 * Spectrum On Demand: $3.99  
   
 
-# Oct. 11: *The Witch*
-**IMDB Rating: 6.9**  
-*In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.*  
-### Streaming:
-- DIRECTV  
-### Rent:
-* Apple iTunes: $3.99  
-* Google Play Movies: $5.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $5.99  
-* YouTube: $5.99  
-* Redbox: $2.99  
-* DIRECTV: $3.99  
-  
-
-# Oct. 12: *The Conjuring*
-**IMDB Rating: 7.5**  
-*Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.*  
+# Oct. 8: *The Shining*
+**IMDB Rating: 8.4**  
+*Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.*  
 ### Streaming:
 - HBO Max  
 ### Rent:
@@ -203,17 +104,9 @@
 * Microsoft Store: $3.99  
 * Redbox: $3.99  
 * DIRECTV: $3.99  
-* Spectrum On Demand: $3.99  
   
 
-# Oct. 13: *Hush*
-**IMDB Rating: 6.6**  
-*A deaf woman is stalked by a psychotic killer in her secluded home.*  
-### Streaming:
-- Netflix  
-  
-
-# Oct. 14: *It Follows*
+# Oct. 9: *It Follows*
 **IMDB Rating: 6.8**  
 *When carefree teenager Jay sleeps with her older boyfriend for the first time, she learns that she is the latest recipient of a fatal curse that is passed from victim to victim via sexual intercourse. Death, Jay learns, will creep inexorably toward her as either a friend or a stranger. Jay's friends don't believe her seemingly paranoid ravings, until they too begin to see the phantom assassins and band together to help her defend herself.*  
 ### Streaming:
@@ -230,7 +123,7 @@
 * Alamo on Demand: $3.99  
   
 
-# Oct. 15: *Sinister*
+# Oct. 10: *Sinister*
 **IMDB Rating: 6.8**  
 *Found footage helps a true-crime novelist realize how and why a family was murdered in his new home, though his discoveries put his entire family in the path of a supernatural entity.*  
 ### Streaming:
@@ -247,7 +140,37 @@
 * DIRECTV: $3.99  
   
 
-# Oct. 16: *Train to Busan*
+# Oct. 11: *Malignant*
+**IMDB Rating: 6.3**  
+*Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.*  
+### Streaming:
+- DIRECTV  
+- HBO Max  
+### Rent:
+* Apple iTunes: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $3.99  
+* Redbox: $3.99  
+* AMC on Demand: $3.99  
+* DIRECTV: $3.99  
+  
+
+# Oct. 12: *The Thing*
+**IMDB Rating: 8.2**  
+*Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.*  
+### Streaming:
+- Peacock Premium  
+### Rent:
+* Apple iTunes: $3.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $3.99  
+* AMC on Demand: $3.99  
+* Spectrum On Demand: $4.99  
+* Alamo on Demand: $3.99  
+  
+
+# Oct. 13: *Train to Busan*
 **IMDB Rating: 7.6**  
 *When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.*  
 ### Streaming:
@@ -270,39 +193,41 @@
 * Alamo on Demand: $3.99  
   
 
-# Oct. 17: *It*
-**IMDB Rating: 7.3**  
-*In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.*  
-### Streaming:
-- Netflix  
-- HBO Max  
-### Rent:
-* Apple iTunes: $3.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $3.99  
-* Redbox: $3.99  
-* AMC on Demand: $3.99  
-* DIRECTV: $3.99  
-  
-
-# Oct. 18: *It Chapter Two*
-**IMDB Rating: 6.5**  
-*27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.*  
+# Oct. 14: *Nightmare on Elm Street*
+**IMDB Rating: 7.4**  
+*Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...*  
 ### Streaming:
 - HBO Max  
 ### Rent:
 * Apple iTunes: $3.99  
+* Google Play Movies: $3.99  
 * Vudu: $3.99  
 * Amazon Video: $3.99  
 * Microsoft Store: $3.99  
+* YouTube: $3.99  
 * Redbox: $3.99  
 * AMC on Demand: $3.99  
 * DIRECTV: $3.99  
 * Spectrum On Demand: $3.99  
   
 
-# Oct. 19: *Let the Right One In*
+# Oct. 15: *The Witch*
+**IMDB Rating: 6.9**  
+*In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.*  
+### Streaming:
+- DIRECTV  
+### Rent:
+* Apple iTunes: $3.99  
+* Google Play Movies: $5.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $5.99  
+* YouTube: $5.99  
+* Redbox: $2.99  
+* DIRECTV: $3.99  
+  
+
+# Oct. 16: *Let the Right One In*
 **IMDB Rating: 7.9**  
 *Set in 1982 in the suburb of Blackeberg, Stockholm, twelve-year-old Oskar is a lonely outsider, bullied at school by his classmates; at home, Oskar dreams of revenge against a trio of bullies. He befriends his twelve-year-old, next-door neighbor Eli, who only appears at night in the snow-covered playground outside their building.*  
 ### Streaming:
@@ -323,7 +248,78 @@
 * Alamo on Demand: $3.99  
   
 
-# Oct. 20: *Color Out of Space*
+# Oct. 17: *Gonjiam: Haunted Asylum*
+**IMDB Rating: 6.4**  
+*The crew of a horror web series travels to an abandoned asylum for a live broadcast, but they encounter much more than expected as they move deeper inside the nightmarish old building.*  
+### Streaming:
+- Amazon Prime Video  
+- Shudder  
+- Hi-YAH  
+- AMC+ Roku Premium Channel  
+### Rent:
+* Apple iTunes: $3.99  
+* Google Play Movies: $4.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $4.99  
+* YouTube: $4.99  
+  
+
+# Oct. 18: *The Texas Chainsaw Massacre*
+**IMDB Rating: 7.5**  
+*When Sally hears that her grandfather's grave may have been vandalized, she and her paraplegic brother, Franklin, set out with their friends to investigate. After a detour to their family's old farmhouse, they discover a group of crazed, murderous outcasts living next door. As the group is attacked one by one by the chainsaw-wielding Leatherface, who wears a mask of human skin, the survivors must do everything they can to escape.*  
+### Streaming:
+- Showtime  
+- Shudder  
+- Showtime Amazon Channel  
+- Shudder Amazon Channel  
+- DIRECTV  
+- AMC+ Amazon Channel  
+### Rent:
+* Apple iTunes: $3.99  
+* Google Play Movies: $3.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $4.99  
+* YouTube: $3.99  
+* Alamo on Demand: $2.99  
+  
+
+# Oct. 19: *V/H/S*
+**IMDB Rating: 5.8**  
+*When a group of misfits is hired by an unknown third party to burglarize a desolate house and acquire one rare VHS tape, they discover more found footage than they had bargained for.*  
+### Streaming:
+- Hulu  
+### Rent:
+* Apple iTunes: $3.99  
+* Google Play Movies: $3.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $4.99  
+* YouTube: $3.99  
+* Redbox: $3.99  
+* FlixFling: $3.99  
+  
+
+# Oct. 20: *Hellraiser*
+**IMDB Rating: 6.9**  
+*When he tinkers with a box he bought while abroad, sexual deviant Frank inadvertently opens a portal to hell, where fetish-demons led by Pinhead tear his body apart. When Frank’s brother and his wife move into his house, a skeletal Frank appears to his sister-in-law and asks her to supply him with corpses for his regeneration.*  
+### Streaming:
+- Amazon Prime Video  
+- Shudder  
+- Shudder Amazon Channel  
+- AMC+ Amazon Channel  
+### Rent:
+* Apple iTunes: $3.99  
+* Google Play Movies: $3.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $3.99  
+* YouTube: $3.99  
+* Redbox: $2.99  
+  
+
+# Oct. 21: *Color Out of Space*
 **IMDB Rating: 6.1**  
 *The Gardner family moves to a remote farmstead in rural New England to escape the hustle of the 21st century. They are busy adapting to their new life when a meteorite crashes into their front yard, melts into the earth, and infects both the land and the properties of space-time with a strange, otherworldly colour. To their horror, the family discovers this alien force is gradually mutating every life form that it touches—including them.*  
 ### Streaming:
@@ -341,74 +337,7 @@
 * AMC on Demand: $4.99  
   
 
-# Oct. 21: *Carrie*
-**IMDB Rating: 7.4**  
-*Carrie White, a shy and troubled teenage girl who is tormented by her high school peers and her fanatically religious mother, begins to use her powers of telekinesis to exact revenge upon them.*  
-### Streaming:
-- Shudder  
-- DIRECTV  
-- AMC+  
-- AMC+ Amazon Channel  
-- AMC+ Roku Premium Channel  
-### Rent:
-* Apple iTunes: $3.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $3.99  
-* Redbox: $1.99  
-* AMC on Demand: $3.99  
-  
-
-# Oct. 22: *The Babadook*
-**IMDB Rating: 6.8**  
-*A single mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.*  
-### Streaming:
-- Shudder  
-- DIRECTV  
-- AMC+ Amazon Channel  
-- AMC+ Roku Premium Channel  
-### Rent:
-* Apple iTunes: $3.99  
-* Google Play Movies: $4.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $4.99  
-* YouTube: $4.99  
-  
-
-# Oct. 23: *Gonjiam: Haunted Asylum*
-**IMDB Rating: 6.4**  
-*The crew of a horror web series travels to an abandoned asylum for a live broadcast, but they encounter much more than expected as they move deeper inside the nightmarish old building.*  
-### Streaming:
-- Amazon Prime Video  
-- Shudder  
-- Hi-YAH  
-- AMC+ Roku Premium Channel  
-### Rent:
-* Apple iTunes: $3.99  
-* Google Play Movies: $4.99  
-* Vudu: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $4.99  
-* YouTube: $4.99  
-  
-
-# Oct. 24: *Malignant*
-**IMDB Rating: 6.3**  
-*Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.*  
-### Streaming:
-- DIRECTV  
-- HBO Max  
-### Rent:
-* Apple iTunes: $3.99  
-* Amazon Video: $3.99  
-* Microsoft Store: $3.99  
-* Redbox: $3.99  
-* AMC on Demand: $3.99  
-* DIRECTV: $3.99  
-  
-
-# Oct. 25: *X*
+# Oct. 22: *X*
 **IMDB Rating: 6.6**  
 *In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.*  
 ### Streaming:
@@ -426,6 +355,51 @@
 * Redbox: $4.99  
 * FlixFling: $5.99  
 * DIRECTV: $5.99  
+  
+
+# Oct. 23: *Carrie*
+**IMDB Rating: 7.4**  
+*Carrie White, a shy and troubled teenage girl who is tormented by her high school peers and her fanatically religious mother, begins to use her powers of telekinesis to exact revenge upon them.*  
+### Streaming:
+- Shudder  
+- DIRECTV  
+- AMC+  
+- AMC+ Amazon Channel  
+- AMC+ Roku Premium Channel  
+### Rent:
+* Apple iTunes: $3.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $3.99  
+* Redbox: $1.99  
+* AMC on Demand: $3.99  
+  
+
+# Oct. 24: *The Babadook*
+**IMDB Rating: 6.8**  
+*A single mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.*  
+### Streaming:
+- Shudder  
+- DIRECTV  
+- AMC+ Amazon Channel  
+- AMC+ Roku Premium Channel  
+### Rent:
+* Apple iTunes: $3.99  
+* Google Play Movies: $4.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
+* Microsoft Store: $4.99  
+* YouTube: $4.99  
+  
+
+# Oct. 25: *Last Night in Soho*
+**IMDB Rating: 7.1**  
+*A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.*  
+### Streaming:
+- DIRECTV  
+- HBO Max  
+### Rent:
+* Alamo on Demand: $19.99  
   
 
 # Oct. 26: *Speak No Evil*
@@ -455,17 +429,21 @@
 * Redbox: $2.99  
   
 
-# Oct. 28: *Trick'r Treat*
-**IMDB Rating: 6.7**  
-*Four interwoven stories that occur on Halloween: an everyday high school principal has a secret life as a serial killer; a college virgin might have just met the one guy for her; a group of teenagers pull a mean prank, and a bitter old recluse receives an uninvited guest.*  
+# Oct. 28: *The Omen*
+**IMDB Rating: 7.5**  
+*Immediately after their miscarriage, the US diplomat Robert Thorn adopts the newborn Damien without the knowledge of his wife. Yet what he doesn’t know is that their new son is the son of the devil.*  
+### Streaming:
+- DIRECTV  
+- HBO Max  
 ### Rent:
 * Apple iTunes: $3.99  
-* Google Play Movies: $2.99  
-* Vudu: $2.99  
-* Amazon Video: $2.99  
+* Google Play Movies: $3.99  
+* Vudu: $3.99  
+* Amazon Video: $3.99  
 * Microsoft Store: $3.99  
-* YouTube: $2.99  
+* YouTube: $3.99  
 * Redbox: $3.99  
+* AMC on Demand: $3.99  
 * DIRECTV: $3.99  
   
 
@@ -488,17 +466,7 @@
 * DIRECTV: $3.99  
   
 
-# Oct. 30: *Last Night in Soho*
-**IMDB Rating: 7.1**  
-*A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.*  
-### Streaming:
-- DIRECTV  
-- HBO Max  
-### Rent:
-* Alamo on Demand: $19.99  
-  
-
-# Oct. 31: *Hocus Pocus*
+# Oct. 30: *Hocus Pocus*
 **IMDB Rating: 6.9**  
 *After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.*  
 ### Streaming:
@@ -513,3 +481,8 @@
 * DIRECTV: $3.99  
   
 
+# Oct. 31: *Hocus Pocus 2*
+**IMDB Rating: 6.8**  
+*It's been 29 years since someone lit the Black Flame Candle and resurrected the 17th-century sisters, and they are looking for revenge. Now it is up to three high-school students to stop the ravenous witches from wreaking a new kind of havoc on Salem before dawn on All Hallow's Eve.*  
+### Streaming:
+- Disney Plus  
