@@ -1,0 +1,31 @@
+- **0ctober 1**: *The Conjuring* - HBO Max
+- **0ctober 2**: *It* - HBO Max
+- **0ctober 3**: *It Chapter Two* - HBO Max
+- **0ctober 4**: *Prey* - Hulu
+- **0ctober 5**: *The Exorcist* - HBO Max
+- **0ctober 6**: *Hush* - Netflix
+- **0ctober 7**: *The Strangers* - RENT
+- **0ctober 8**: *The Shining* - HBO Max
+- **0ctober 9**: *It Follows* - Netflix
+- **0ctober 10**: *Sinister* - Peacock Premium
+- **0ctober 11**: *Malignant* - HBO Max
+- **0ctober 12**: *The Thing* - Peacock Premium
+- **0ctober 13**: *Train to Busan* - Shudder
+- **0ctober 14**: *Nightmare on Elm Street* - HBO Max
+- **0ctober 15**: *The Witch* - RENT
+- **0ctober 16**: *Let the Right One In* - Hulu
+- **0ctober 17**: *Gonjiam: Haunted Asylum* - Shudder
+- **0ctober 18**: *The Texas Chainsaw Massacre* - Shudder
+- **0ctober 19**: *V/H/S* - Hulu
+- **0ctober 20**: *Hellraiser* - Shudder
+- **0ctober 21**: *Color Out of Space* - Shudder
+- **0ctober 22**: *X* - RENT
+- **0ctober 23**: *Carrie* - Shudder
+- **0ctober 24**: *The Babadook* - Shudder
+- **0ctober 25**: *Last Night in Soho* - HBO Max
+- **0ctober 26**: *Speak No Evil* - Shudder
+- **0ctober 27**: *Summer of 84* - Shudder
+- **0ctober 28**: *The Omen* - HBO Max
+- **0ctober 29**: *Hereditary* - RENT
+- **0ctober 30**: *Hocus Pocus* - Disney+
+- **0ctober 31**: *Hocus Pocus 2* - Disney+!
