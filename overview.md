@@ -28,4 +28,4 @@
 - **0ctober 28**: *The Omen* - HBO Max
 - **0ctober 29**: *Hereditary* - RENT
 - **0ctober 30**: *Hocus Pocus* - Disney+
-- **0ctober 31**: *Hocus Pocus 2* - Disney+!
+- **0ctober 31**: *Hocus Pocus 2* - Disney+
