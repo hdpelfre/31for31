@@ -1,4 +1,4 @@
-- **0ctober 1**: *The Conjuring* - HBO Max
+- ~~**0ctober 1**: *The Conjuring* - HBO Max~~
 - **0ctober 2**: *It* - HBO Max
 - **0ctober 3**: *It Chapter Two* - HBO Max
 - **0ctober 4**: *Prey* - Hulu
