@@ -230,6 +230,7 @@
 **IMDB Rating:** 6.9  
 *In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.*  
 ### Streaming:
+- HBO Max
 - DIRECTV  
 ### Rent:
 * Apple iTunes: $3.99  
