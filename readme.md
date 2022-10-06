@@ -1,8 +1,8 @@
 - ~~**0ctober 1**: *The Conjuring* - HBO Max~~
-- **0ctober 2**: *It* - HBO Max
-- **0ctober 3**: *It Chapter Two* - HBO Max
-- **0ctober 4**: *Prey* - Hulu
-- **0ctober 5**: *The Exorcist* - HBO Max
+- ~~**0ctober 2**: *It* - HBO Max~~
+- ~~**0ctober 3**: *It Chapter Two* - HBO Max~~
+- ~~**0ctober 4**: *Prey* - Hulu~~
+- ~~**0ctober 5**: *The Exorcist* - HBO Max~~
 - **0ctober 6**: *Hush* - Netflix
 - **0ctober 7**: *The Strangers* - RENT
 - **0ctober 8**: *The Shining* - HBO Max
