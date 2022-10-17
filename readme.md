@@ -11,9 +11,9 @@
 - ~~**0ctober 11**: *Malignant* - HBO Max~~
 - ~~**0ctober 12**: *The Thing* - Peacock Premium~~
 - ~~**0ctober 13**: *Train to Busan* - Shudder~~
-- **0ctober 14**: *Nightmare on Elm Street* - HBO Max
-- **0ctober 15**: *The Witch* - HBO Max
-- **0ctober 16**: *Let the Right One In* - Hulu
+- ~~**0ctober 14**: *Nightmare on Elm Street* - HBO Max~~
+- ~~**0ctober 15**: *The Witch* - HBO Max~~
+- ~~**0ctober 16**: *Let the Right One In* - Hulu~~
 - **0ctober 17**: *Gonjiam: Haunted Asylum* - Shudder
 - **0ctober 18**: *The Texas Chainsaw Massacre* - Shudder
 - **0ctober 19**: *V/H/S* - Hulu
