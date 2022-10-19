@@ -14,8 +14,8 @@
 - ~~**0ctober 14**: *Nightmare on Elm Street* - HBO Max~~
 - ~~**0ctober 15**: *The Witch* - HBO Max~~
 - ~~**0ctober 16**: *Let the Right One In* - Hulu~~
-- **0ctober 17**: *Gonjiam: Haunted Asylum* - Shudder
-- **0ctober 18**: *The Texas Chainsaw Massacre* - Shudder
+- ~~**0ctober 17**: *Gonjiam: Haunted Asylum* - Shudder~~
+- ~~**0ctober 18**: *The Texas Chainsaw Massacre* - Shudder~~
 - **0ctober 19**: *V/H/S* - Hulu
 - **0ctober 20**: *Hellraiser* - Shudder
 - **0ctober 21**: *Color Out of Space* - Shudder
