@@ -17,12 +17,12 @@
 - ~~**0ctober 17**: *Gonjiam: Haunted Asylum* - Shudder~~
 - ~~**0ctober 18**: *The Texas Chainsaw Massacre* - Shudder~~
 - ~~**0ctober 19**: *V/H/S* - Hulu~~
-- **0ctober 20**: *Hellraiser* - Shudder
-- **0ctober 21**: *Color Out of Space* - Shudder
+- ~~**0ctober 20**: *Hellraiser* - Shudder~~
+- ~~**0ctober 21**: *Color Out of Space* - Shudder~~
 - **0ctober 22**: *X* - RENT
 - **0ctober 23**: *Carrie* - Shudder
-- **0ctober 24**: *The Babadook* - Shudder
-- **0ctober 25**: *Last Night in Soho* - HBO Max
+- ~~**0ctober 24**: *The Babadook* - Shudder~~
+- ~~**0ctober 25**: *Last Night in Soho* - HBO Max~~
 - **0ctober 26**: *Speak No Evil* - Shudder
 - **0ctober 27**: *Summer of 84* - Shudder
 - **0ctober 28**: *The Omen* - HBO Max
