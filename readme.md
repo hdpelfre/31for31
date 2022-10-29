@@ -23,9 +23,9 @@
 - **0ctober 23**: *Carrie* - Shudder
 - ~~**0ctober 24**: *The Babadook* - Shudder~~
 - ~~**0ctober 25**: *Last Night in Soho* - HBO Max~~
-- **0ctober 26**: *Speak No Evil* - Shudder
-- **0ctober 27**: *Summer of 84* - Shudder
-- **0ctober 28**: *The Omen* - HBO Max
+- ~~**0ctober 26**: *Speak No Evil* - Shudder~~
+- ~~**0ctober 27**: *Summer of 84* - Shudder~~
+- ~~**0ctober 28**: *The Omen* - HBO Max~~
 - **0ctober 29**: *Hereditary* - RENT
 - **0ctober 30**: *Hocus Pocus* - Disney+
 - **0ctober 31**: *Hocus Pocus 2* - Disney+
